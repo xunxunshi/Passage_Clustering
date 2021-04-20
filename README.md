@@ -95,4 +95,6 @@ Upon this analysis, the stop word are removed to see if this would reduce such e
 
 
 
-### Authors: Xun Xun Shi, Lasya Bhaskara, Tulika Shukla 
+### Authors:
+#### Team Lead : Xun Xun Shi
+####  Additional Contributors : Lasya Bhaskara, Tulika Shukla 
